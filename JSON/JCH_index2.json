@@ -1,0 +1,383 @@
+{
+  "indexed_at": "2024-06-07T13:30:00.000Z",
+  "total_papers": 1,
+  "total_questions": 38,
+  "topics": [
+    "Algebra",
+    "Area and Volume",
+    "Coordinate Geometry",
+    "Functions",
+    "Geometry",
+    "Inequalities",
+    "Patterns and Sequences",
+    "Percentages",
+    "Probability",
+    "Quadratic Equations",
+    "Ratio",
+    "Sets",
+    "Statistics",
+    "Trigonometry"
+  ],
+  "questions": [
+    {
+      "questionNumber": "1(a)",
+      "topics": ["Probability"],
+      "difficulty": "Easy",
+      "concepts": ["Sample space", "Listing outcomes", "Systematic enumeration"],
+      "description": "Complete a table showing all 16 possible pairs when picking one red counter (1–4) and one blue counter (7–10) at random",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "1(b)",
+      "topics": ["Probability"],
+      "difficulty": "Easy",
+      "concepts": ["Basic probability", "Favourable outcomes"],
+      "description": "Find the probability that one of the two counters picked is a 7",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "1(c)",
+      "topics": ["Probability"],
+      "difficulty": "Easy",
+      "concepts": ["Prime numbers", "Listing outcomes"],
+      "description": "List all pairs of counters where both numbers are prime",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(a)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Grouped frequency", "Reading tables"],
+      "description": "Work out the number of students who jumped less than 240 cm from a grouped frequency table",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(b)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Histograms", "Data representation"],
+      "description": "Draw a histogram for grouped data on distances jumped in a long jump competition",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(c)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Grouped frequency", "Maximum value", "Interpretation"],
+      "description": "Work out the maximum number of students who could have jumped more than 200 cm",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(d)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Mean", "Mid-interval values", "Grouped data"],
+      "description": "Estimate the mean distance jumped using mid-interval values, correct to the nearest centimetre",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(e)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Median", "Grouped data", "Estimation"],
+      "description": "Estimate the median distance jumped from a grouped frequency table",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(a)(i)",
+      "topics": ["Percentages"],
+      "difficulty": "Easy",
+      "concepts": ["Pay calculation", "Hourly rate"],
+      "description": "Calculate total earnings for Friday and Saturday at €19 per hour",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(a)(ii)",
+      "topics": ["Percentages"],
+      "difficulty": "Easy",
+      "concepts": ["Percentage increase", "Sunday premium pay"],
+      "description": "Calculate Sunday earnings at 50% extra pay on top of basic hourly rate of €19",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(b)",
+      "topics": ["Percentages"],
+      "difficulty": "Medium",
+      "concepts": ["Income tax", "Tax credits", "Net income"],
+      "description": "Calculate net income given gross income of €1900, 20% tax rate, and monthly tax credit of €312.50",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(c)(i)",
+      "topics": ["Percentages"],
+      "difficulty": "Easy",
+      "concepts": ["Simple interest", "Annual interest"],
+      "description": "Calculate interest earned in the first year on €2500 at 3.2% per year",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(c)(ii)",
+      "topics": ["Percentages"],
+      "difficulty": "Medium",
+      "concepts": ["Compound interest", "Total amount after 2 years"],
+      "description": "Work out the total amount in a savings account after 2 years at 3.2% compound interest",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(a)",
+      "topics": ["Ratio"],
+      "difficulty": "Easy",
+      "concepts": ["Ratio", "Dividing a quantity"],
+      "description": "Find the litres of concentrate needed to make 15 litres of orange drink in ratio 1:4 (concentrate:water)",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(b)",
+      "topics": ["Percentages"],
+      "difficulty": "Medium",
+      "concepts": ["Profit", "Percentage profit", "Revenue and cost"],
+      "description": "Calculate profit as a percentage of total cost when selling 10 litres at €0.20 per 250 ml with cost of €5.50",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(c)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Easy",
+      "concepts": ["Volume of cylinder", "Diameter and radius"],
+      "description": "Find the volume of a cylindrical glass with diameter 6 cm and height 10 cm, correct to the nearest cm³",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(a)",
+      "topics": ["Sets"],
+      "difficulty": "Easy",
+      "concepts": ["Set intersection", "Set difference", "Venn diagram shading"],
+      "description": "Shade the regions representing A∩B and A\\B in two separate Venn diagrams",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(b)",
+      "topics": ["Sets"],
+      "difficulty": "Medium",
+      "concepts": ["Venn diagrams", "Three sets", "Factors", "Placing elements"],
+      "description": "Complete a three-set Venn diagram placing elements of U = {1–10} across sets P, Q, and S = {factors of 10}",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(b)(i)",
+      "topics": ["Sets"],
+      "difficulty": "Easy",
+      "concepts": ["Intersection of three sets"],
+      "description": "List the elements of P∩Q∩S",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(b)(ii)",
+      "topics": ["Sets"],
+      "difficulty": "Easy",
+      "concepts": ["Set difference"],
+      "description": "List the elements of P\\Q",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "6",
+      "topics": ["Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Nets of 3D shapes", "Triangular prism", "Equilateral triangles"],
+      "description": "Complete an accurate net of a triangular prism (Toblerone shape) with equilateral triangle faces of side 3 cm and rectangular faces 9 cm long",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(a)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Easy",
+      "concepts": ["Volume of cube", "Cube roots"],
+      "description": "Find the edge length x of a cube with volume 216 cm³",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(b)(i)",
+      "topics": ["Area and Volume", "Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Surface area of cuboid", "Algebraic expressions", "Proof"],
+      "description": "Show that the surface area of cuboid B (dimensions 5, 6, y) is (22y + 60) cm²",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(b)(ii)",
+      "topics": ["Area and Volume", "Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Forming and solving equations", "Surface area"],
+      "description": "Find the value of y given that the surface area of cuboid B is 269 cm²",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(c)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Hard",
+      "concepts": ["Volume of cuboid", "Finding dimensions from face areas"],
+      "description": "Find the volume of a cuboid given three face areas of 48, 96, and 32 cm² where dimensions are whole numbers",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(a)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Reading graphs", "Function evaluation"],
+      "description": "Write down the value of g(3) from a graph of g(x)",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(b)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Reading graphs", "Inverse function values"],
+      "description": "Write down the value of x for which g(x) = 1",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(c)",
+      "topics": ["Functions"],
+      "difficulty": "Medium",
+      "concepts": ["Transformations of functions", "Vertical translation"],
+      "description": "Draw the graph of y = g(x) − 2 on the same axes for −2 ≤ x ≤ 3",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(a)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Easy",
+      "concepts": ["Reading coordinates"],
+      "description": "Write down the coordinates of points A and C from a coordinate diagram",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(b)(i)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Central symmetry", "Plotting points", "Quadrilaterals"],
+      "description": "Plot point D, the image of B(4,1) under central symmetry in P(3,3), and form quadrilateral ABCD",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(b)(ii)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Distance formula", "Parallelogram properties"],
+      "description": "Find |AB| and |CD| and use these to explain why ABCD is not a parallelogram",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "10(a)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Easy",
+      "concepts": ["x-intercept", "Linear equations"],
+      "description": "Find the coordinates of point P where the line y = 2x + 5 crosses the x-axis",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "10(b)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Perpendicular lines", "Negative reciprocal slope", "Equation of a line"],
+      "description": "Find the equation of line n perpendicular to y = 2x + 5 passing through (0, 10), in the form ax + by + c = 0",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(a)",
+      "topics": ["Algebra"],
+      "difficulty": "Easy",
+      "concepts": ["Substitution", "Evaluating expressions"],
+      "description": "Evaluate 12 − 3k² when k = −2",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(b)",
+      "topics": ["Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Factorisation", "Grouping terms"],
+      "description": "Factorise fully pm + 3p − m − 3",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(c)",
+      "topics": ["Inequalities"],
+      "difficulty": "Medium",
+      "concepts": ["Graphing inequalities", "Number lines", "Integer and real number sets"],
+      "description": "Graph three inequalities on number lines: x < 2 (x ∈ ℤ), x ≤ 3 (x ∈ ℕ), and −2 < x ≤ 4 (x ∈ ℝ)",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(d)",
+      "topics": ["Algebra"],
+      "difficulty": "Hard",
+      "concepts": ["Algebraic fractions", "Adding fractions", "Simplification"],
+      "description": "Write (5x−2)/3 + 2/(5x+2) as a single fraction in simplest form",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(a)",
+      "topics": ["Patterns and Sequences"],
+      "difficulty": "Easy",
+      "concepts": ["Pattern recognition", "Drawing patterns"],
+      "description": "Draw Pattern 4 in a sequence of patterns made of white and shaded squares",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(b)",
+      "topics": ["Patterns and Sequences", "Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Pattern rules", "General term", "Expressing in terms of n"],
+      "description": "Complete a table for number of shaded squares and total squares in each pattern, including a formula in terms of n",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(c)(i)",
+      "topics": ["Patterns and Sequences", "Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Forming equations", "Algebraic proof"],
+      "description": "Show that if the difference between total and shaded squares in pattern k is 271, then k² + 3k + 1 = 271",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(c)(ii)",
+      "topics": ["Quadratic Equations"],
+      "difficulty": "Medium",
+      "concepts": ["Solving quadratic equations", "Quadratic formula or factorisation"],
+      "description": "Solve k² + 3k + 1 = 271 to find the value of k",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(a)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Easy",
+      "concepts": ["Pythagoras' theorem", "Right-angled triangles", "Slant height"],
+      "description": "Calculate the slant height x of a right-angled roof triangle with base 6.1 m and height 2.84 m, correct to 2 decimal places",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(b)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Medium",
+      "concepts": ["Trigonometric ratios", "Finding angles", "Tangent ratio"],
+      "description": "Use trigonometry to find angle θ in a right-angled triangle with base 6.1 m and height 3.12 m, correct to nearest degree",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(c)(i)",
+      "topics": ["Geometry"],
+      "difficulty": "Hard",
+      "concepts": ["Similar triangles", "Proportional reasoning", "Proof"],
+      "description": "Use similar triangles to show that x = 3y/7, where x is the wall height and y is the total roof height in an isosceles triangle with base 14 m and inner span 8 m",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(c)(ii)",
+      "topics": ["Geometry", "Algebra"],
+      "difficulty": "Hard",
+      "concepts": ["Area of composite shapes", "Substitution", "Solving equations"],
+      "description": "Find the value of y given that the area of shaded region ABCDE is 12 m², using x = 3y/7",
+      "paper": {"year": 2024, "level": "Higher Level", "paper": "Junior Cycle"}
+    }
+  ]
+}

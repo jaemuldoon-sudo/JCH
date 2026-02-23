@@ -28,7 +28,7 @@ client = Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 def load_all_exam_indexes():
     files = [
         'JSON/JCH_index1.json',
-#       'JSON Files/exam-index2.json',
+        'JSON/JCH_index2.json',
 #       'JSON Files/exam-index3.json',
 #       'JSON Files/exam-index4.json',
     ]
