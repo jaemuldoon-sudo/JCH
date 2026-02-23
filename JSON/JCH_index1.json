@@ -1,0 +1,408 @@
+{
+  "indexed_at": "2025-06-06T13:30:00.000Z",
+  "total_papers": 1,
+  "total_questions": 47,
+  "topics": [
+    "Algebra",
+    "Area and Volume",
+    "Combinatorics",
+    "Coordinate Geometry",
+    "Functions",
+    "Geometry",
+    "Patterns and Sequences",
+    "Percentages",
+    "Probability",
+    "Quadratic Equations",
+    "Ratio",
+    "Sets",
+    "Simultaneous Equations",
+    "Statistics",
+    "Trigonometry"
+  ],
+  "questions": [
+    {
+      "questionNumber": "1(a)",
+      "topics": ["Combinatorics"],
+      "difficulty": "Easy",
+      "concepts": ["Counting principle", "Combinations"],
+      "description": "Count the total number of different running shoe choices given 3 brands, 4 colours, and 4 sizes",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "1(b)",
+      "topics": ["Percentages"],
+      "difficulty": "Easy",
+      "concepts": ["Percentage discount", "Percentage change"],
+      "description": "Work out the percentage discount when running shoes are reduced from €140 to €93.80",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(a)(i)",
+      "topics": ["Patterns and Sequences"],
+      "difficulty": "Easy",
+      "concepts": ["Linear sequences", "Common difference"],
+      "description": "Write the next two terms of the linear sequence: 1, 5, 9, ...",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(a)(ii)",
+      "topics": ["Patterns and Sequences"],
+      "difficulty": "Easy",
+      "concepts": ["Geometric sequences", "Multiplying sequences"],
+      "description": "Write the next two terms of the tripling sequence: 4, 12, 36, ...",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(a)(iii)",
+      "topics": ["Patterns and Sequences"],
+      "difficulty": "Medium",
+      "concepts": ["Quadratic sequences", "Second differences"],
+      "description": "Write the next two terms of the quadratic sequence: 12, 19, 23, ...",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(b)(i)",
+      "topics": ["Patterns and Sequences"],
+      "difficulty": "Easy",
+      "concepts": ["Repeating patterns", "Modular arithmetic"],
+      "description": "Find the colour of the 10th block in a repeating pattern of period 4 (Red, Red, Blue, Green)",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(b)(ii)",
+      "topics": ["Probability", "Patterns and Sequences"],
+      "difficulty": "Medium",
+      "concepts": ["Basic probability", "Repeating patterns"],
+      "description": "Find the probability of picking a red block at random from the first 25 blocks in a repeating colour sequence",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(a)",
+      "topics": ["Percentages", "Algebra"],
+      "difficulty": "Easy",
+      "concepts": ["VAT", "Bills and invoices", "Arithmetic operations"],
+      "description": "Find missing values A, B, C, D in a decorating bill (unit price × quantity = total)",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(b)",
+      "topics": ["Percentages"],
+      "difficulty": "Easy",
+      "concepts": ["VAT calculation", "Percentage of an amount"],
+      "description": "Calculate VAT at 13.5% of a subtotal of €595.28, correct to 2 decimal places",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(c)",
+      "topics": ["Percentages"],
+      "difficulty": "Easy",
+      "concepts": ["Total cost including VAT", "Addition"],
+      "description": "Find total cost F by adding VAT to subtotal, correct to 2 decimal places",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(a)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Stem and leaf diagrams", "Back-to-back plots", "Data representation"],
+      "description": "Complete a back-to-back stem and leaf diagram for 12 students' Art and Business test marks",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(b)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Interpreting diagrams", "Average", "Spread"],
+      "description": "Compare students' Art and Business results using shape of back-to-back stem and leaf diagram",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(c)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Range", "Measures of spread"],
+      "description": "Work out the range of marks for Business",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(d)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Range", "Effect of changing a data value"],
+      "description": "Explain how a student scoring higher in a repeat test could leave the range of Business marks unchanged",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(e)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Mean", "Working backwards from the mean"],
+      "description": "Find Ajani's Art mark given that including his score increases the mean from 50 to 51 for 13 students",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(a)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Easy",
+      "concepts": ["Reading coordinates", "Coordinate plane"],
+      "description": "Write down the coordinates of points A and C from a coordinate diagram",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(b)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Easy",
+      "concepts": ["Plotting points"],
+      "description": "Plot and label the point B(4, 3) on a coordinate diagram",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(c)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Parallelogram", "Properties of quadrilaterals"],
+      "description": "Find and plot point D such that ABCD is a parallelogram",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(d)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Midpoint formula", "Line segments"],
+      "description": "Find coordinates of point E given that C is the midpoint of [AE]",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "6(a)",
+      "topics": ["Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Line segment construction", "Dividing a line into equal parts"],
+      "description": "Divide line segment [PQ] into three equal lengths using construction lines, without measuring",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "6(b)(i)",
+      "topics": ["Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Parallel lines", "Alternate angles", "Co-interior angles"],
+      "description": "Find angles x, y, and z in a triangle with parallel lines DF, EG, and BC",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "6(b)(ii)",
+      "topics": ["Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Similar triangles", "Congruent triangles", "AA similarity"],
+      "description": "Explain why triangles ABC and ADF are similar but not congruent",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "6(c)",
+      "topics": ["Geometry"],
+      "difficulty": "Hard",
+      "concepts": ["Similar triangles", "Ratios of sides", "Proportional reasoning"],
+      "description": "Use similar triangles to find |GE| given |AD| = |DE| = |EB| = 10 and |BC| = 14.3",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(a)(i)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Easy",
+      "concepts": ["Radius of semicircle", "Composite shapes", "Identifying dimensions"],
+      "description": "Find the radius x of the semicircle and length y of the rectangular part of a golf course shape (total length 300m, width 50m)",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(a)(ii)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Medium",
+      "concepts": ["Area of rectangle", "Area of semicircle", "Composite area"],
+      "description": "Find total area of a rectangle with semicircle at one end, correct to nearest m²",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(b)",
+      "topics": ["Ratio", "Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Rates", "Proportional reasoning"],
+      "description": "Find litres of fertiliser needed to cover 809,371 m² at a rate of 6 litres per 250 m²",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(c)",
+      "topics": ["Ratio"],
+      "difficulty": "Medium",
+      "concepts": ["Ratio with fractions", "Unequal ratios", "Proportional parts"],
+      "description": "Find the number of millilitres of ingredient B in 1 litre of fertiliser given ratio A:B:C = 1 : 2/3 : 5/3",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(d)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Medium",
+      "concepts": ["Volume of cylinder", "Unit conversion"],
+      "description": "Find the volume of a cylindrical tank with radius 90 cm and length 4 m, in m³ correct to 2 decimal places",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(e)",
+      "topics": ["Area and Volume", "Algebra"],
+      "difficulty": "Hard",
+      "concepts": ["Volume of cylinder", "Forming and solving equations", "Cube roots"],
+      "description": "Find the radius of a cylinder where length = 3 × radius and volume = 81π/125 m³",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(a)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Easy",
+      "concepts": ["Inverse cosine", "Finding angles"],
+      "description": "Find angle A correct to the nearest degree given cos A = 0.27",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(b)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Hard",
+      "concepts": ["Right-angled triangles", "Tangent ratio", "Multi-step trigonometry"],
+      "description": "Find vertical height h of a roof using two angles of elevation (22° and 29°) and horizontal distance of 23 m",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(a)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Reading graphs", "Estimating values"],
+      "description": "Estimate from a graph how long it takes for temperature T(x) to reach 20°C for the first time",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(b)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Constant functions", "Reading graphs"],
+      "description": "Identify from a graph how many hours the temperature remains constant for 0 ≤ x ≤ 8",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(c)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Linear functions", "Rate of change", "Drawing graphs"],
+      "description": "Draw section S of a temperature graph for 8 ≤ x ≤ 10 given T(8) = 15 and rate of change +3°C/hr",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(d)",
+      "topics": ["Functions"],
+      "difficulty": "Medium",
+      "concepts": ["Matching functions to graphs", "Linear and quadratic functions"],
+      "description": "Match each section P, Q, R to its function: T(x) = 21, T(x) = x² + 12, T(x) = −6x + 63",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(e)",
+      "topics": ["Functions"],
+      "difficulty": "Medium",
+      "concepts": ["Linear functions", "Verifying function values"],
+      "description": "Identify which function represents section S of the temperature graph and justify by checking points",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(f)",
+      "topics": ["Functions"],
+      "difficulty": "Medium",
+      "concepts": ["Transformations of functions", "Vertical translation"],
+      "description": "Draw a graph of bedroom temperature (always 3°C less than kitchen) for 0 ≤ x ≤ 8 on same axes",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "10(a)(i)",
+      "topics": ["Sets"],
+      "difficulty": "Easy",
+      "concepts": ["Venn diagrams", "Expressing values in terms of x"],
+      "description": "Fill in missing value in a Venn diagram (debating and chess clubs) in terms of x",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "10(a)(ii)",
+      "topics": ["Sets", "Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Venn diagrams", "Forming and solving equations"],
+      "description": "Find the value of x using information about 88 total students, 40 in debating club, and 37 in neither club",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "10(b)",
+      "topics": ["Sets"],
+      "difficulty": "Easy",
+      "concepts": ["Set difference", "Set notation"],
+      "description": "Interpret D\\C set notation to describe which clubs Michael belongs to",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(a)",
+      "topics": ["Algebra"],
+      "difficulty": "Easy",
+      "concepts": ["Simplifying expressions", "Collecting like terms"],
+      "description": "Simplify 5x² − 7x + 3x² − 6x",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(b)",
+      "topics": ["Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Polynomial division", "Long division of polynomials"],
+      "description": "Divide (x³ + 11x² + 15x − 27) by (x + 3)",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(a)(i)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Evaluating functions", "Rational functions"],
+      "description": "Complete a table of values for f(x) = 2/(x+2) for x = −1 to 4",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(a)(ii)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Graphing functions", "Rational functions", "Curves"],
+      "description": "Draw the graph of y = 2/(x+2) for −1 ≤ x ≤ 4 using a table of values",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(b)",
+      "topics": ["Simultaneous Equations"],
+      "difficulty": "Medium",
+      "concepts": ["Simultaneous equations", "Elimination method"],
+      "description": "Solve the simultaneous equations 3x + 4y = 29 and 2x + y = 9",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(a)",
+      "topics": ["Algebra"],
+      "difficulty": "Easy",
+      "concepts": ["Forming expressions", "Perimeter and dimensions"],
+      "description": "Write the width w of a rectangular photo frame in terms of x, given the photo hole is 12 by 18 and border width is x",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(b)",
+      "topics": ["Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Expanding brackets", "Algebraic proof"],
+      "description": "Show that l × w = 4x² + 60x + 216 by expanding (18 + 2x)(12 + 2x)",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(c)",
+      "topics": ["Quadratic Equations", "Algebra"],
+      "difficulty": "Hard",
+      "concepts": ["Quadratic equations", "Solving using formula or factorisation"],
+      "description": "Given l × w = 648, form and solve quadratic equation 4x² + 60x − 432 = 0 to find x correct to 1 decimal place",
+      "paper": {"year": 2025, "level": "Higher Level", "paper": "Junior Cycle"}
+    }
+  ]
+}
