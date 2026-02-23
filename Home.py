@@ -171,7 +171,7 @@ def format_template_for_prompt(templates):
     if not templates:
         return ""
     
-    formatted = "\n\nREAL LEAVING CERT EXAM EXAMPLES (for style reference only):\n"
+    formatted = "\n\nREAL Junior CERT EXAM EXAMPLES (for style reference only):\n"
     for i, t in enumerate(templates, 1):
         formatted += f"\nExample {i}:\n"
         formatted += f"Question: {t.get('questionNumber', 'N/A')}\n"
@@ -209,8 +209,8 @@ def generate_worksheet(topic, subtopics, difficulty):
     template_context = format_template_for_prompt(templates)
 
     system_prompt = (
-        "You are a Leaving Cert Higher Level Maths tutor. "
-        "Generate exactly 10 unique exam‑style questions that match REAL Leaving Cert exam style. "
+        "You are a Junior Cert Higher Level Maths tutor. "
+        "Generate exactly 10 unique exam‑style questions that match REAL Junior Cert exam style. "
         f"Difficulty level: {difficulty}. "
         f"Focus ONLY on these subtopics: {chosen}. "
         "Use LaTeX formatting for ALL mathematical expressions. "
@@ -244,7 +244,7 @@ def generate_balanced_worksheet(topic, subtopics):
     template_context = format_template_for_prompt(templates)
 
     system_prompt = (
-        "You are a Leaving Cert Higher Level Maths tutor. "
+        "You are a Junior Cert Higher Level Maths tutor. "
         "Generate ONE exam‑style question for EACH selected subtopic. "
         "Match the authentic LC exam style shown in the reference examples. "
         "Use LaTeX formatting wrapped in $ ... $. "
@@ -264,7 +264,7 @@ def generate_balanced_worksheet(topic, subtopics):
 
 def generate_answer(question, topic, difficulty):
     system_prompt = (
-        "You are a Leaving Cert Higher Level Maths tutor. "
+        "You are a Junior Cert Higher Level Maths tutor. "
         "Provide a full step‑by‑step worked solution matching LC marking scheme style. "
         "Use LaTeX formatting wrapped in $ ... $. "
         "Use ONLY inline LaTeX with single dollar signs: $ ... $. "
@@ -285,7 +285,7 @@ def generate_similar_question(question, topic, difficulty):
     template_context = format_template_for_prompt(templates[:2])  # Just 2 examples
     
     system_prompt = (
-        "You are a Leaving Cert Higher Level Maths tutor. "
+        "You are a Junior Cert Higher Level Maths tutor. "
         "Generate ONE new question similar in style and difficulty but not identical. "
         "Follow authentic LC exam question format. "
         "Use LaTeX formatting wrapped in $ ... $. "
@@ -310,7 +310,7 @@ def generate_exam_style_worksheet(topic, subtopics):
     template_context = format_template_for_prompt(templates)
 
     system_prompt = (
-        "You are a Leaving Cert Higher Level Maths examiner. "
+        "You are a Junior Cert Higher Level Maths examiner. "
         "Generate questions that EXACTLY match the style, structure, tone, and difficulty "
         "of REAL LC Higher Level exam papers (see examples below). "
         "Base your style on typical LC question formats, multi‑part structure, "
@@ -346,7 +346,7 @@ def generate_examPaper(topic, subtopics):
     template_context = format_template_for_prompt(templates)
 
     system_prompt = (
-        "You are a Leaving Certificate Higher Level Maths examiner. "
+        "You are a Junior Certificate Higher Level Maths examiner. "
         "Generate NEW, original exam‑style questions that EXACTLY match the tone, structure, "
         "difficulty and progression of REAL LC Higher Level Maths papers (see examples below). "
         "Follow these rules strictly: "
