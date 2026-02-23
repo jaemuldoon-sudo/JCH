@@ -484,7 +484,7 @@ st.markdown("""
 st.markdown(
     """
     <div style="text-align:center; padding: 10px 0 20px 0;">
-        <h1 style="margin-bottom:0;">📘 Leaving Certificate Honours Maths</h1>
+        <h1 style="margin-bottom:0;">📘 Junior Certificate Honours Maths</h1>
         <p style="color:#4a4a4a; font-size:18px; margin-top:5px;">
             Adaptive, exam‑style practice — built for students.
         </p>
