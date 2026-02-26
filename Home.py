@@ -29,7 +29,7 @@ def load_all_exam_indexes():
     files = [
         'JSON/JCH_index1.json',
         'JSON/JCH_index2.json',
-#       'JSON Files/exam-index3.json',
+        'JSON/JCH_index3.json',
 #       'JSON Files/exam-index4.json',
     ]
     all_questions = []
@@ -60,7 +60,7 @@ TOPICS = ["Sets", "Numbers and Patterns", "Probability", "Algebra", "Statistics"
 
 SUBTOPICS = {
     "Sets": [
-        "Venn Siagrams",
+        "Venn Diagrams",
         "Problems with 3 Sets"
     ],
     "Numbers and Patterns": [

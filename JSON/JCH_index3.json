@@ -1,0 +1,413 @@
+{
+  "indexed_at": "2026-02-26T12:00:00.000Z",
+  "total_papers": 1,
+  "total_questions": 40,
+  "topics": [
+    "Algebra",
+    "Area and Volume",
+    "Coordinate Geometry",
+    "Functions",
+    "Geometry",
+    "Number Systems",
+    "Percentages",
+    "Probability",
+    "Quadratic Equations",
+    "Sets",
+    "Statistics",
+    "Trigonometry"
+  ],
+  "questions": [
+    {
+      "questionNumber": "1(a)",
+      "topics": ["Number Systems"],
+      "difficulty": "Easy",
+      "concepts": ["Rounding", "Approximation"],
+      "description": "Write down three possible values for the actual temperature when a car screen shows 18°C (rounded to nearest whole number)",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "1(b)",
+      "topics": ["Number Systems"],
+      "difficulty": "Easy",
+      "concepts": ["Inequalities", "Rounding"],
+      "description": "Fill in the missing values in the inequality to show the range of possible actual temperatures t when the screen shows 18°C",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "1(c)",
+      "topics": ["Number Systems"],
+      "difficulty": "Easy",
+      "concepts": ["Number sets", "Real numbers", "Integers", "Natural numbers"],
+      "description": "Decide whether it is more appropriate to graph actual temperature t as t∈ℕ, t∈ℤ, or t∈ℝ and give a reason",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(a)(i)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Reading graphs", "Bar charts"],
+      "description": "Read from a diagram how many t-shirts were sold in Month 1",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(a)(ii)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Reading graphs", "Bar charts"],
+      "description": "Read from a diagram how many t-shirts were returned in Month 2",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(b)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Reading graphs", "Greatest increase", "Interpreting data"],
+      "description": "Identify which month had the greatest increase in t-shirts sold compared to the previous month",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(c)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Arithmetic operations", "Tables"],
+      "description": "Complete a table showing the number of t-shirts not returned each month (S(n) - R(n))",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(d)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Drawing graphs", "Line graphs"],
+      "description": "Draw a graph on given axes to show the number of t-shirts not returned each month for 8 months",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "2(e)",
+      "topics": ["Percentages"],
+      "difficulty": "Medium",
+      "concepts": ["Percentage increase", "Comparing percentage change"],
+      "description": "Determine which month had the greater percentage increase in t-shirts sold, Month 3 or Month 5, and justify",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(a)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Easy",
+      "concepts": ["Volume of cuboid"],
+      "description": "Work out the volume of a rectangular block of wax measuring 35 cm by 45 cm by 16 cm",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(b)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Easy",
+      "concepts": ["Volume of cylinder", "Expressing in terms of variables"],
+      "description": "Work out the volume of a cylindrical candle with radius r cm and height 9 cm, in terms of r and π",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "3(c)",
+      "topics": ["Area and Volume", "Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Volume of cylinder", "Forming and solving equations", "Percentages"],
+      "description": "Find the radius r of each candle given 100 candles are made from the wax block with 10% waste, correct to 1 decimal place",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(a)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Histograms", "Frequency tables", "Data representation"],
+      "description": "Represent the ages of children in a crèche on a histogram with clearly labelled axes",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(b)",
+      "topics": ["Statistics"],
+      "difficulty": "Easy",
+      "concepts": ["Percentage of a total", "Relative frequency"],
+      "description": "Work out the percentage of children in the crèche aged 1-2 years, correct to the nearest percent",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(c)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Mean", "Mid-interval values"],
+      "description": "Use mid-interval values to estimate the mean age of the children in the crèche, correct to 1 decimal place",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "4(d)",
+      "topics": ["Statistics"],
+      "difficulty": "Medium",
+      "concepts": ["Ratios", "Staff-to-child ratios", "Applying constraints"],
+      "description": "Work out the least number of staff members needed to mind all children in the crèche given age-based staff ratios",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(a)",
+      "topics": ["Probability"],
+      "difficulty": "Easy",
+      "concepts": ["Odd and even numbers", "Multiplication of integers"],
+      "description": "Complete mathematical statements about whether odd × odd and odd × even produce odd or even results",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(b)",
+      "topics": ["Probability"],
+      "difficulty": "Easy",
+      "concepts": ["Sample space", "Combinations of outcomes"],
+      "description": "Complete a sample space showing all possible combinations of odd (O) and even (E) outcomes when rolling a die three times",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "5(c)",
+      "topics": ["Probability"],
+      "difficulty": "Medium",
+      "concepts": ["Probability", "Equally likely outcomes", "Even products"],
+      "description": "Find the probability that multiplying three dice rolls gives an even number",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "6(a)",
+      "topics": ["Sets"],
+      "difficulty": "Easy",
+      "concepts": ["Set difference", "Venn diagrams", "Set notation"],
+      "description": "Write down the value of #(F\\G) in terms of x from a Venn diagram",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "6(b)",
+      "topics": ["Sets", "Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Venn diagrams", "Constraints on variables", "Natural numbers"],
+      "description": "Find the greatest possible value of x from a Venn diagram where x∈ℕ and justify your answer",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(a)(i)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Easy",
+      "concepts": ["Plotting points", "Reading coordinates"],
+      "description": "Plot and label points C(8,4) and D(3,6) on a coordinate diagram and write down coordinates of A and B",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(b)(i)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Distance formula", "Equal length sides"],
+      "description": "Show that |AB| = |BC| to help prove ABCD is a square",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(b)(ii)",
+      "topics": ["Coordinate Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Slope", "Perpendicular lines", "Product of slopes"],
+      "description": "Show without measuring that AB is perpendicular to BC using slopes",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(c)(i)",
+      "topics": ["Geometry"],
+      "difficulty": "Easy",
+      "concepts": ["Logical reasoning", "Counterexample", "Parallelograms"],
+      "description": "Determine if the statement 'Every parallelogram is a square' is true or false and justify",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "7(c)(ii)",
+      "topics": ["Geometry"],
+      "difficulty": "Easy",
+      "concepts": ["Converse of a statement", "Logic"],
+      "description": "Write down the converse of the statement 'Every parallelogram is a square'",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(a)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Easy",
+      "concepts": ["Unit conversion", "Kilometres to metres"],
+      "description": "Convert 7.5 kilometres to metres",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(b)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Medium",
+      "concepts": ["Right-angled triangles", "Sine ratio", "Finding angles"],
+      "description": "Use trigonometry to find angle E when a plane is 7.5 km from takeoff point T and 200 m above ground, correct to 1 decimal place",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(c)(i)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Easy",
+      "concepts": ["Time conversion", "Fractions of an hour"],
+      "description": "Write 20 minutes as a fraction of an hour in simplest form",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(c)(ii)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Medium",
+      "concepts": ["Speed, distance, time", "Average speed"],
+      "description": "Work out the average speed of a plane that travels 598 km in 2 hours and 20 minutes, correct to 1 decimal place",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "8(d)",
+      "topics": ["Trigonometry"],
+      "difficulty": "Hard",
+      "concepts": ["Cosine rule", "Finding a side length"],
+      "description": "Work out distance |AC| using the cosine rule given |AB| = 598 km, |BC| = 280 km and angle at B = 35°, correct to nearest km",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(a)",
+      "topics": ["Algebra"],
+      "difficulty": "Easy",
+      "concepts": ["Expanding brackets", "Simplifying expressions"],
+      "description": "Multiply out and simplify 4x(5x + 4) − 3(x − 2)",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(b)",
+      "topics": ["Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Difference of two squares", "Factorisation"],
+      "description": "Factorise fully 9 − 25y²",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "9(c)",
+      "topics": ["Algebra"],
+      "difficulty": "Hard",
+      "concepts": ["Index laws", "Rational indices", "Expressing in the form 5^p"],
+      "description": "Write (5⁷ × 25³) / √5 in the form 5^p where p∈ℚ",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "10(a)",
+      "topics": ["Percentages"],
+      "difficulty": "Medium",
+      "concepts": ["USC", "Tax calculations", "Percentage of an amount"],
+      "description": "Find the amount of USC payable at 1.5% (on first €12,012) and 3.5% (on next €5,564)",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "10(b)",
+      "topics": ["Algebra", "Percentages"],
+      "difficulty": "Medium",
+      "concepts": ["Forming expressions", "Tax calculations"],
+      "description": "Write an expression in terms of x for the total USC paid given gross income is x and total USC is 5% of gross income",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "10(c)",
+      "topics": ["Algebra", "Percentages"],
+      "difficulty": "Hard",
+      "concepts": ["Solving linear equations", "Tax calculations"],
+      "description": "Find the value of x (Michelle's gross income) given total USC paid equals 5% of gross income",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(a)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Interpreting graphs", "Linear functions"],
+      "description": "Explain what the coordinates (6, 21000) mean in the context of people leaving a stadium after a match",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(b)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Reading graphs", "Coordinates on axes"],
+      "description": "Write down the coordinates of point W on the t-axis given it takes 20 minutes for all 30,000 people to leave",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(c)(i)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Evaluating linear functions", "Substitution"],
+      "description": "Find how many people were in the stadium 12 minutes after the match using P = 30000 − 1500t",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "11(c)(ii)",
+      "topics": ["Functions"],
+      "difficulty": "Easy",
+      "concepts": ["Interpreting equations", "Rate of change"],
+      "description": "Explain what the 1500 in the equation P = 30000 − 1500t means in terms of people leaving the stadium",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(a)",
+      "topics": ["Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Compass and straight edge construction", "Axes of symmetry", "Equilateral triangle"],
+      "description": "Construct one axis of symmetry of curved shape ABC (formed by circular arcs on equilateral triangle) using compass and straight edge only",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(b)(i)",
+      "topics": ["Geometry"],
+      "difficulty": "Easy",
+      "concepts": ["Angles in equilateral triangle"],
+      "description": "Write down the size of angle ∠ACB in the equilateral triangle ABC",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "12(b)(ii)",
+      "topics": ["Area and Volume"],
+      "difficulty": "Medium",
+      "concepts": ["Arc length", "Circle", "Degrees to radians"],
+      "description": "Find the length of the circular arc from B to C given |BC| = 40 cm and angle ∠BAC = 60°, correct to 2 decimal places",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(a)",
+      "topics": ["Algebra"],
+      "difficulty": "Easy",
+      "concepts": ["Forming expressions", "Area and dimensions"],
+      "description": "Write the total height of a rectangular poster in terms of x, where the top section is a square of side x and the bottom section has height 0.5 m",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(b)",
+      "topics": ["Algebra"],
+      "difficulty": "Medium",
+      "concepts": ["Expanding brackets", "Algebraic proof", "Area"],
+      "description": "Show that the total area of the poster leads to the equation 2x² + x − 100 = 0",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "13(c)",
+      "topics": ["Quadratic Equations"],
+      "difficulty": "Hard",
+      "concepts": ["Quadratic formula", "Solving quadratic equations"],
+      "description": "Solve 2x² + x − 100 = 0 to find the width x of the poster in metres, correct to the nearest centimetre",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "14(a)",
+      "topics": ["Geometry"],
+      "difficulty": "Medium",
+      "concepts": ["Pythagoras theorem", "Right-angled triangles"],
+      "description": "Work out the value of x in a triangle where two sides are both labelled x, one side is 9 and hypotenuse relates to 15",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    },
+    {
+      "questionNumber": "14(b)",
+      "topics": ["Geometry"],
+      "difficulty": "Hard",
+      "concepts": ["Similar triangles", "Ratios of sides", "Proportional reasoning"],
+      "description": "Use similar triangles to work out the value of y",
+      "paper": {"year": 2023, "level": "Higher Level", "paper": "Junior Cycle"}
+    }
+  ]
+}
