@@ -195,7 +195,7 @@ def generate_worksheet(topic, subtopics, difficulty):
         "Every mathematical expression must be inside $ ... $. "
         "Return the questions as a numbered list, one per line, no solutions. "
         "\n"
-        "IMPORTANT: The examples below are from REAL LC papers. "
+        "IMPORTANT: The examples below are from REAL Junior Certificate papers. "
         "Study their style, structure, and difficulty level, then create NEW questions inspired by this format."
         f"{template_context}"
     )
@@ -203,7 +203,7 @@ def generate_worksheet(topic, subtopics, difficulty):
     user_prompt = (
         f"Create a {difficulty} worksheet on {topic}. "
         f"Subtopics: {chosen}. "
-        "Generate 10 NEW questions that match the LC exam style shown in the examples. "
+        "Generate 10 NEW questions that match the Junior Certificate exam style shown in the examples. "
         "Ensure ALL maths is in LaTeX wrapped in $ ... $."
     )
 
@@ -221,7 +221,7 @@ def generate_balanced_worksheet(topic, subtopics):
     system_prompt = (
         "You are a Junior Cert Higher Level Maths tutor. "
         "Generate ONE exam‑style question for EACH selected subtopic. "
-        "Match the authentic LC exam style shown in the reference examples. "
+        "Match the authentic Junior Certificate exam style shown in the reference examples. "
         "Use LaTeX formatting wrapped in $ ... $. "
         "Use ONLY inline LaTeX with single dollar signs: $ ... $. "
         "Never use $$ ... $$ under any circumstances. "
@@ -231,7 +231,7 @@ def generate_balanced_worksheet(topic, subtopics):
         f"{template_context}"
     )
 
-    user_prompt = f"Topic: {topic}\nSubtopics: {chosen}\n\nCreate NEW questions matching LC exam style."
+    user_prompt = f"Topic: {topic}\nSubtopics: {chosen}\n\nCreate NEW questions matching Junior Certificate exam style."
 
     text = call_claude(system_prompt, user_prompt)
     return [q.strip() for q in text.split("\n") if q.strip()]
@@ -240,7 +240,7 @@ def generate_balanced_worksheet(topic, subtopics):
 def generate_answer(question, topic, difficulty):
     system_prompt = (
         "You are a Junior Cert Higher Level Maths tutor. "
-        "Provide a full step‑by‑step worked solution matching LC marking scheme style. "
+        "Provide a full step‑by‑step worked solution matching Junior Certificate marking scheme style. "
         "Use LaTeX formatting wrapped in $ ... $. "
         "Use ONLY inline LaTeX with single dollar signs: $ ... $. "
         "Never use $$ ... $$ under any circumstances. "
@@ -262,7 +262,7 @@ def generate_similar_question(question, topic, difficulty):
     system_prompt = (
         "You are a Junior Cert Higher Level Maths tutor. "
         "Generate ONE new question similar in style and difficulty but not identical. "
-        "Follow authentic LC exam question format. "
+        "Follow authentic Junior Certificate exam question format. "
         "Use LaTeX formatting wrapped in $ ... $. "
         "Use ONLY inline LaTeX with single dollar signs: $ ... $. "
         "Never use $$ ... $$ under any circumstances. "
@@ -287,13 +287,13 @@ def generate_exam_style_worksheet(topic, subtopics):
     system_prompt = (
         "You are a Junior Cert Higher Level Maths examiner. "
         "Generate questions that EXACTLY match the style, structure, tone, and difficulty "
-        "of REAL LC Higher Level exam papers (see examples below). "
-        "Base your style on typical LC question formats, multi‑part structure, "
+        "of REAL Junior Certificate Higher Level exam papers (see examples below). "
+        "Base your style on typical Junior Certificate question formats, multi‑part structure, "
         "mark‑style progression, and the level of mathematical rigor expected. "
         "You may include multi‑part questions (a), (b), (c). "
         "You may include diagrams described in words. "
         "Do NOT quote or reproduce any past exam paper. "
-        "Only create new, original questions inspired by the LC style shown in examples. "
+        "Only create new, original questions inspired by the Junior Certificate style shown in examples. "
         "Use LaTeX formatting for ALL mathematical expressions, wrapped in $ ... $. "
         "Use ONLY inline LaTeX with single dollar signs: $ ... $. "
         "Never use $$ ... $$ under any circumstances. "
@@ -306,7 +306,7 @@ def generate_exam_style_worksheet(topic, subtopics):
     user_prompt = (
         f"Topic: {topic}\n"
         f"Subtopics: {chosen}\n"
-        "Generate 3 NEW exam‑style questions matching the LC format shown in examples."
+        "Generate 3 NEW exam‑style questions matching the JC format shown in examples."
     )
 
     text = call_claude(system_prompt, user_prompt)
@@ -323,17 +323,17 @@ def generate_examPaper(topic, subtopics):
     system_prompt = (
         "You are a Junior Certificate Higher Level Maths examiner. "
         "Generate NEW, original exam‑style questions that EXACTLY match the tone, structure, "
-        "difficulty and progression of REAL LC Higher Level Maths papers (see examples below). "
+        "difficulty and progression of REAL Junior Certificate Higher Level Maths papers (see examples below). "
         "Follow these rules strictly: "
-        "- Match the authentic LC exam style shown in the reference examples "
+        "- Match the authentic Junior Certificate exam style shown in the reference examples "
         "- Use multi‑part structure (a), (b), (c) where appropriate "
-        "- Include realistic LC‑style contexts and mathematical reasoning "
+        "- Include realistic Junior Certificate ‑style contexts and mathematical reasoning "
         "- Include marks for each part, e.g. '(a) [10 marks]' "
         "- ALL mathematical expressions must use LaTeX with $ ... $ delimiters "
         "- Never output plain‑text maths such as x^2, 1/6, sqrt(x) "
         "- Always use LaTeX forms such as $x^2$, $\\frac{1}{6}$, $\\sqrt{x}$ "
         "- Never copy, quote, or paraphrase any past exam paper "
-        "- Create only NEW, original questions inspired by LC exam format "
+        "- Create only NEW, original questions inspired by Junior Certificate exam format "
         "- Return EXACTLY 3 exam‑style questions "
         "- Do NOT include solutions "
         f"{template_context}"
@@ -342,7 +342,7 @@ def generate_examPaper(topic, subtopics):
     user_prompt = (
         f"Topic: {topic}\n"
         f"Subtopics: {chosen}\n"
-        "Generate exactly 3 Higher Level exam‑style questions matching REAL LC exam format. "
+        "Generate exactly 3 Higher Level exam‑style questions matching REAL Junior Certificate exam format. "
         "Each question may contain multiple parts. "
         "Use LaTeX with $ ... $ for all maths. "
         "Return the questions separated by blank lines."
@@ -373,7 +373,7 @@ def show_past_paper_questions(topic):
         st.info(f"No past paper questions found for {topic}. Try generating new questions!")
         return
     
-    st.markdown(f"### 📖 Real LC Past Paper Questions - {topic}")
+    st.markdown(f"### 📖 Real Junior Certificate Past Paper Questions - {topic}")
     st.caption(f"Found {len(matching)} questions from past papers")
     
     # Group by difficulty
@@ -429,7 +429,7 @@ def display_past_paper_list(questions):
 # -----------------------------
 # PAGE CONFIG
 # -----------------------------
-#st.set_page_config(page_title="LC Maths Tutor", layout="centered")
+#st.set_page_config(page_title="Junior Certificate Maths Tutor", layout="centered")
 
 # REMOVE LEFT SIDEBAR COMPLETELY
 st.markdown("""
@@ -472,7 +472,7 @@ st.markdown(
 if EXAM_INDEX:
     st.success(f"✅ Questions Loaded: {EXAM_INDEX.get('total_questions', 0)}")
 else:
-    st.warning("⚠️ Exam index not loaded - questions will be generated without LC past paper templates")
+    st.warning("⚠️ Exam index not loaded - questions will be generated without Junior Certificate past paper templates")
 
 # -----------------------------
 # MAIN NAVIGATION TABS
@@ -610,7 +610,7 @@ with main_tab2:
     # -----------------------------
     # PAST PAPERS BROWSER
     # -----------------------------
-    st.markdown("### Browse Real LC Past Paper Questions")
+    st.markdown("### Browse Real Junior Certificate Past Paper Questions")
     
     if EXAM_INDEX:
         browse_topic = st.selectbox(
@@ -622,4 +622,4 @@ with main_tab2:
         show_past_paper_questions(browse_topic)
     else:
         st.error("📚 Exam index not loaded. Please upload exam-index.json to your Railway deployment to browse past paper questions.")
-        st.info("The exam index contains real LC past paper questions organized by topic, difficulty, and year.")
+        st.info("The exam index contains real Junior Certificate past paper questions organized by topic, difficulty, and year.")
