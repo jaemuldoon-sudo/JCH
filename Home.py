@@ -59,88 +59,63 @@ EXAM_INDEX = load_all_exam_indexes()
 TOPICS = ["Probability", "Trigonometry", "Algebra", "Geometry of the Circle", "Geometry of the Line", "Statistics", "Enlargements", "Calculus", "Complex Numbers"]
 
 SUBTOPICS = {
-    "Probability": [
-        "Combined events",
-        "Conditional probability",
-        "Expected value",
-        "Permutations and combinations",
-        "Binomial distribution",
-        "Bernoulli Trials",
-        "Normal Distribution"
+    "Sets": [
+        "Venn Siagrams",
+        "Problems with 3 Sets"
     ],
-    "Trigonometry": [
-        "Trigonometric identities",
-        "Graphs",
-        "Radians",
-        "Sine rule / Cosine rule",
-        "Unit Circle",
-        "Pytharagos Theorem",
-        "Angles of Elevation and Depression",
-        "Reference Angles",
-        "Trigonometric Equations",
-        "Trigonometric Functions"
+    "Numbers and Patterns": [
+        "BIMDAS",
+        "Surds",
+        "Linear Patterns",
+        "Quadratic Patterns",
+        "Exponential Patterns"
+    ],
+    "Probability": [
+        "Relative Frequency",
+        "Fairness",
+        "Expected Frequency",
+        "Set theory",
+        "Combined Events"
     ],
     "Algebra": [
-        "Quadratics",
-        "Functions",
-        "Logs",
-        "Sequences & series",
-        "Inequalities",
-        "Sum and Difference of 2 Cubes",
+        "Algebraic Expressions",
+        "Addition,  Subtraction and Multiplication",
+        "Factorising - Highest Common Factor ",
+        "Factorising - Quadratic ",
+        "Factorising - Difference of 2 Squares ",
+        "Factorising - Grouping ",
+        "Long Division",
         "Algebraic Fractions",
-        "Simultaneous Equations in 2 Variables",
-        "Simultaneous Equations in 3 Variables",
-        "Simultaneous Equations with linear and non-linear Equations",
         "Manipulation of Formulae",
-        "Surds"
-    ],
-    "Geometry of the Circle": [
-        "Center (0,0) and radius r",
-        "Center (h,k) and radius r",
-        "Equations of the form x^2 +y^2 + 2gx + 2gy + c = 0",
-        "Points outside, inside or on the Circle",
-        "Intersection of a Line and Circle",
-        "Equation of Tangent to a point on the Circle",
-        "Equtaion of Tangents from point outside the Circle",
-        "Touching Circles",
-        "Problems in g,f and c"
+        "Simultaneous Equations",
+        "Inequalities"
     ],    
-    "Geometry of the Line": [
-        "Area of a Triangle",
-        "Perpendicular Distance from a point to a Line",
-        "Angle between 2 Lines"
-    ],    
-    "Calculus": [
-        "Differentiation",
-        "Integration",
-        "Rates of change",
-        "Area under curves",
-        "Product/Quotient/Chain rule"
-    ],
     "Statistics": [
-        "Scatter Graphs",
-        "Correlation Coefficient",
-        "Mean, Mode, Median",
-        "Range , Quartiles and Interquatile Range",
-        "Standard Deviation",
-        "z-scores",
-        "Emperical Rule",
-        "Central Limit Theroem",
-        "Confidence Interval",
-        "Hypothesis Testing"
+        "Stem and Leaf Plots ",
+        "Mean, Mode and Median",
+        "Quartiles and Interquartile Range"
+    ],    
+    "Financial Maths": [
+        "Income and Tax Deductions ",
+        "Profit and Loss",
+        "Compound Interest"
     ],
-    "Enlargements": [
-        "Translation",
-        "Central Symmetry",
-        "Rotations",
-        "Enlargement"
+    "Distance Speed and Time": [
+        "Find Distance",
+        "Find Time",
+        "Find Speed"
     ],
-    "Complex Numbers": [
-        "Addition and Subtraction of Complex Numbers",
-        "Multiplication of Complex Numbers",
-        "Division of Complex Numbers",
-        "Polar Form of Complex Numbers",
-        "De Moivres Theorem"
+    "Area and Volume": [
+        "Square, Rectangle and Triangle",
+        "Circle",
+        "Cones, Spheres",
+        "Find Dimensions given Volume"
+       
+    ],
+    "Geometry": [
+        "Pythagoras Theorem",
+        "Parallel and Perpendicular Lines",
+        "Equation of Line "
     ],
 }
 
