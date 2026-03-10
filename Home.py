@@ -56,7 +56,7 @@ EXAM_INDEX = load_all_exam_indexes()
 # -----------------------------
 # TOPICS + SUBTOPICS
 # -----------------------------
-TOPICS = ["Sets", "Numbers and Patterns", "Probability", "Algebra", "Statistics", "Financial Maths", "Distance Speed and Time", "Area and Volume", "Geometry"]
+TOPICS = ["Sets", "Numbers and Patterns", "Probability", "Algebra", "Statistics", "Financial Maths", "Distance Speed and Time", "Area and Volume", "Geometry of the Line", "Trigonometry"]
 
 SUBTOPICS = {
     "Sets": [
@@ -114,10 +114,13 @@ SUBTOPICS = {
         "Find Dimensions given Volume"
        
     ],
-    "Geometry": [
-        "Pythagoras Theorem",
+    "Geometry of the Line": [
         "Parallel and Perpendicular Lines",
-        "Equation of Line "
+        "Equation of Line"
+    ],
+    "Trigonometry": [
+        "Pythagoras Theorem",
+        "Sin, Cos, Tan"
     ],
 }
 
