@@ -56,7 +56,7 @@ EXAM_INDEX = load_all_exam_indexes()
 # -----------------------------
 # TOPICS + SUBTOPICS
 # -----------------------------
-TOPICS = ["Sets", "Numbers and Patterns", "Probability", "Algebra", "Statistics", "Statistics", "Financial Maths", "Distance Speed and Time", "Area and Volume", "Geometry"]
+TOPICS = ["Sets", "Numbers and Patterns", "Probability", "Algebra", "Statistics", "Financial Maths", "Distance Speed and Time", "Area and Volume", "Geometry"]
 
 SUBTOPICS = {
     "Sets": [
@@ -68,7 +68,8 @@ SUBTOPICS = {
         "Surds",
         "Linear Patterns",
         "Quadratic Patterns",
-        "Exponential Patterns"
+        "Exponential Patterns",
+        "Indices"
     ],
     "Probability": [
         "Relative Frequency",
@@ -84,6 +85,7 @@ SUBTOPICS = {
         "Factorising - Quadratic ",
         "Factorising - Difference of 2 Squares ",
         "Factorising - Grouping ",
+        "Minus b Formula",
         "Long Division",
         "Algebraic Fractions",
         "Manipulation of Formulae",
